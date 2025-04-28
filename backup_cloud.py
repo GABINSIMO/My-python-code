@@ -15,7 +15,7 @@ cartella_download = 'C:\\Users\\Gabin\\Desktop\\python\\cartellaA\\'
 
 json_key = 'C:\\Users\\Gabin\\Desktop\\python\\pythonapimaps-430414-0007a25f.json'
 #global folder_drive
-folder_drive = '1JCjOHAkrBeXsJFQmvlXKvoUFZ3vKvLpz'
+folder_drive = '1JCjOHAkrBeXsJFQmvlXKvoUFZ3pz'
 
 
 def authenticate_with_service_account():
